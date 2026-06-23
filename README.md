@@ -1,4 +1,4 @@
-# GAN CelebA
+# CNN CIFAR-10
 
 ## CIFAR DATA
 
